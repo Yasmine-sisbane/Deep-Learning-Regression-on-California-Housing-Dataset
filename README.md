@@ -61,4 +61,5 @@ The best models achieved low validation Mean Squared Error (MSE) on the Californ
 ## Author
 
 Yasmine Sisbane
+Jihan Salek
 Computer Science Student
